@@ -1,0 +1,1 @@
+Use this folder for script output of any plots or figures

@@ -1,0 +1,1 @@
+This directory is generally used for business-facing conclusions and summaries. This may include PDFs, PowerPoint decks, graphics, notebooks, or even demonstrative websites.

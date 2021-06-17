@@ -1,0 +1,4 @@
+pandas>=0.22.0
+matplotlib>=2.0
+git+https://vqer@dev.azure.com/vqer/tools/_git/QuantCore@master
+git+https://vqer@dev.azure.com/vqer/tools/_git/ActionJack@master
