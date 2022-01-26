@@ -62,7 +62,7 @@ Add additional notes about how to deploy this model to production
 * [TensorFlow](https://www.tensorflow.org/) - modeling package
 * [Data Source](https://www.datavendor.com/) - data vendor
 * [Smith (2018)](https://www.ssrn.com/en/) - related research paper
-* [Brown (1942)](https://www.ssrn.com/en/) - fundemental technical reference
+* [Brown (1942)](https://www.ssrn.com/en/) - technical reference
 
 ## Versioning
 
